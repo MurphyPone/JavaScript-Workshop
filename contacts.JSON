@@ -1,22 +1,19 @@
 {
   "Contact List": {
     "title": "example glossary",
-		"GlossDiv": {
-      "title": "S",
-      "GlossList": {
-        "GlossEntry": {
-          "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
+		"People": {
+      "Peter Murphy": {
+        "Address": "201 Cambridge Ln, Alexandria, VA, 22314",
+        "work phone": "I don't actually have a work phone number"
+      },
+      "Alex Winstanley": {
+        "Address": "also 201 Cambridge Ln, Alexandria, VA, 22314",
+        "work phone": "571-282-9985 lol"
+      },
+      "Patrick Riley": {
+        "Address": "202 Cambridge Lane, Alexandria, VA, 223999999",
+        "work phone": "He's not old enough to have a phone quite yet"
+      }
     }
+  }
 }
